@@ -3,32 +3,22 @@ owner: Live-Story # Your GitHub organization or username, where this repository 
 repo: status # The name of this repository
 
 sites:
-  - name: [PROD] LiveStory Site
-    url: https://www.livestory.nyc/
-  - name: [DEV] LiveStory console-dev
+  - name: [PROD] LiveStory-Site
+    url: https://www.livestory.nyc
+  - name: [DEV] LiveStory-console-dev
     url: https://console-dev.livestory.io/#/login
-  - name: [PROD] LiveStory console
+  - name: [PROD] LiveStory-console
     url: https://console.livestory.io/#/login
   - name: [PROD] api.livestory.io health
     url: https://api.livestory.io/admin/health
-    expectedStatusCodes:
-      - 200
   - name: [PROD]-api.livestory.io-health
     url: https://api.livestory.io/admin/health
-    expectedStatusCodes:
-      - 200
   - name: [PROD]-api.livestory.io-front
     url: https://api.livestory.io/front/health
-    expectedStatusCodes:
-      - 200
   - name: [PROD]-api.livestory.io-front
     url: https://api.livestory.io/front/health
-    expectedStatusCodes:
-      - 200
   - name: [PROD]-api.livestory.io-content
     url: https://api.livestory.io/content/health
-    expectedStatusCodes:
-      - 200
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
