@@ -33,7 +33,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://live-story.github.io/status/
+      href: https://github.com/$OWNER/$REPO
       
 #       https://github.com/$OWNER/$REPO
 
