@@ -13,8 +13,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://pbs.twimg.com/profile_images/1439943804023414784/0DlRTv6C_400x400.jpg
+  baseUrl: /status
+  logoUrl: https://pbs.twimg.com/profile_images/1439943804023414784/0DlRTv6C_200x200.jpg
   name: LiveStory
   introTitle: "**LiveStory** Monitoring"
   introMessage: Status pages
@@ -22,7 +22,9 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://live-story.github.io/status/
+      
+#       https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
