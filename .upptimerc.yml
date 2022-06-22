@@ -13,22 +13,22 @@ sites:
     url: https://api.livestory.io/admin/health
     expectedStatusCodes:
       - 200
-  - name: [PROD] api.livestory.io health
+  - name: [PROD]-api.livestory.io health
     url: https://api.livestory.io/admin/health
     expectedStatusCodes:
       - 200
-  - name: [PROD] api.livestory.io/front
+  - name: [PROD]-api.livestory.io/front
     url: https://api.livestory.io/front/health
     expectedStatusCodes:
-      - 200      
-  - name: [PROD] api.livestory.io/front
+      - 200   
+  - name: [PROD]-api.livestory.io/front
     url: https://api.livestory.io/front/health
     expectedStatusCodes:
       - 200    
-  - name: [PROD] api.livestory.io/content
+  - name: [PROD]-api.livestory.io/content
     url: https://api.livestory.io/content/health
     expectedStatusCodes:
-      - 200      
+      - 200
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
