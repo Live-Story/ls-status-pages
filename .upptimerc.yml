@@ -2,22 +2,28 @@
 owner: Live-Story # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+
+
+# Change these first
+owner: Live-Story # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
+    
 sites:
-  - name: [PROD]-LiveStory-Site
+  - name: PROD LiveStory Site
     url: https://www.livestory.nyc
-  - name: [DEV]-LiveStory-console-dev
+  - name: DEV LiveStory console dev
     url: https://console-dev.livestory.io/#/login
-  - name: [PROD]-LiveStory-console
+  - name: PROD LiveStory console
     url: https://console.livestory.io/#/login
-  - name: [PROD]-api.livestory.io health
+  - name: PROD api.livestory.io health
     url: https://api.livestory.io/admin/health
-  - name: [PROD]-api.livestory.io-health
+  - name: PROD api.livestory.io-health
     url: https://api.livestory.io/admin/health
-  - name: [PROD]-api.livestory.io-front
+  - name: PROD api.livestory.io-front
     url: https://api.livestory.io/front/health
-  - name: [PROD]-api.livestory.io-front
+  - name: PROD api.livestory.io-front
     url: https://api.livestory.io/front/health
-  - name: [PROD]-api.livestory.io-content
+  - name: PROD api.livestory.io-content
     url: https://api.livestory.io/content/health
       
 status-website:
