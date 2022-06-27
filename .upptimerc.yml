@@ -19,6 +19,8 @@ sites:
     url: https://api.livestory.io/front/health
   - name: PROD api.livestory.io-content
     url: https://api.livestory.io/content/health
+  - name: PROD virtualshowroomFurla
+    url: https://virtualshowroom.furla.com/
 
     
     
