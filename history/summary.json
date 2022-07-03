@@ -94,36 +94,40 @@
     "url": "https://api.livestory.io/front/health",
     "icon": "https://favicons.githubusercontent.com/api.livestory.io",
     "slug": "prod-api-livestory-io-front",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 566,
-    "timeWeek": 415,
-    "timeMonth": 338,
-    "timeYear": 338,
-    "dailyMinutesDown": {}
+    "time": 616,
+    "timeDay": 3921,
+    "timeWeek": 1016,
+    "timeMonth": 616,
+    "timeYear": 616,
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "PROD api.livestory.io-front",
     "url": "https://api.livestory.io/front/health",
     "icon": "https://favicons.githubusercontent.com/api.livestory.io",
     "slug": "prod-api-livestory-io-front",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 566,
-    "timeWeek": 415,
-    "timeMonth": 338,
-    "timeYear": 338,
-    "dailyMinutesDown": {}
+    "time": 616,
+    "timeDay": 3921,
+    "timeWeek": 1016,
+    "timeMonth": 616,
+    "timeYear": 616,
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "PROD api.livestory.io-content",
