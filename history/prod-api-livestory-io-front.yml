@@ -1,7 +1,7 @@
 url: https://api.livestory.io/front/health
-status: down
-code: 504
-responseTime: 10632
-lastUpdated: 2022-07-03T16:10:03.983Z
+status: up
+code: 200
+responseTime: 551
+lastUpdated: 2022-07-03T16:42:40.050Z
 startTime: Wed Jun 22 2022 12:28:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
